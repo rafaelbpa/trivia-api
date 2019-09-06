@@ -1,6 +1,7 @@
 # trivia-api
 
-Small api project as parte of challenge to frontend trivia
+Small api project as parte of challenge to frontend trivia <br /><br />
+You can check the project on https://dreamy-thompson-a4b821.netlify.com/
 
 # Usage
 Clone this repository
